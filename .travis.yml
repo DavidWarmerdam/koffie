@@ -1,3 +1,4 @@
 language: csharp
 solution: koffie.sln
 
+nuget restore koffie.sln
